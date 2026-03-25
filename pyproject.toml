@@ -1,0 +1,17 @@
+[project]
+name = "lab01-part1-119939"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+authors = [
+    {name = "Luiz Fernando", email="luizfernandocosta@protonmail.com"}
+]
+dependencies = [
+    "kagglehub>=1.0.0",
+    "pandas>=3.0.1",
+    "psycopg>=3.3.3",
+    "psycopg-binary>=3.3.3",
+    "pyarrow>=23.0.1",
+    "python-dotenv>=1.2.2",
+]
